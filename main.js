@@ -7,13 +7,10 @@
  translateBtn = document.querySelector('button');
  icons = document.querySelectorAll(".row i");
 
-
  selectTag.forEach((tag,id) => {
-    
      for(const country_code in countries)
      {
     //console.log(countries[country_code]);
-    
     // selecting english by default as From language and Hindi as To language
     let selected;
     if(id == 0 && country_code == "en-GB")
@@ -31,7 +28,6 @@
 
  exchangeicon.addEventListener("click",() =>{
       // exchanging textarea and selecting tag values
-    
     let tempText =fromText.value;
     tempLang = selectTag[0].value;
     fromText.value =toText.value;
@@ -91,3 +87,4 @@ icons.forEach(icon =>{
        }
     });
 })
+
