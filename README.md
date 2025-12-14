@@ -31,6 +31,7 @@ This project was developed as part of the **CodeClause Web Development Internshi
 ## How to Run the Project
 1. Clone the repository
    git clone https://github.com/vanshita-gawande/CodeClauseInternship_Language-Translator.git
+2. Open index.html in any modern web browser
 
 ## Learning Outcomes
 - Practiced DOM manipulation using JavaScript
