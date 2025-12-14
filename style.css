@@ -32,7 +32,6 @@ body{
         
         color: black;
 }
-
  .text-input textarea{
   height:250px;
   width:100%;
@@ -96,4 +95,5 @@ body{
  border-radius:5px;
  background:#96b2b9;
  color:black;
+
 }
