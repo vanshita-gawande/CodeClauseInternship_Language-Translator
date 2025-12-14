@@ -1,4 +1,4 @@
-# Language Translator Web App
+## Language Translator Web App
 
 A simple web-based language translator built using **HTML, CSS, and JavaScript**.  
 This project was developed as part of the **CodeClause Web Development Internship (Task 1)**.
